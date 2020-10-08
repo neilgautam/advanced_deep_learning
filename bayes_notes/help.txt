@@ -1,0 +1,1 @@
+This folder contains the notes for understanding the basics of probability that is needed for programming Bayesian Methods in Machine Learning.
